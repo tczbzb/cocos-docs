@@ -1,6 +1,6 @@
 #.getInstance()
 
-Initialize the SDK, and return the instance of `plugin.FacebookAgent`. Required before doing anything else.
+Initialize the SDK, and return the instance of `plugin.FacebookAgent`. Required before doing anything else. Testing. 
 
 ##Example
 
