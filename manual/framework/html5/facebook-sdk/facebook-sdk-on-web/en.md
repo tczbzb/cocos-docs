@@ -1,6 +1,6 @@
 #Integrate Facebook SDK Beta for Cocos2d-JS on Web
 
-This doc walks you through the integration of Facebook SDK Beta for Cocos2d-JS on Android, including creating app, configuring SDK settings and apk packaging.
+This doc walks you through the integration of Facebook SDK Beta for Cocos2d-JS on Web.
 
 Although Facebook has [Facebook SDK for Javascript](http://developers.facebook.com/docs/javascript), if your game has both mobile version and web version, we highly recommend you to use this SDK for the web version because you can use the same code of Facebook integration for both mobile and web without writing them separately for each platform. 
 
